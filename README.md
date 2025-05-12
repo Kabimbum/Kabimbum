@@ -12,7 +12,7 @@
 # 💫 About Me:
 Muhammad Gibran Hakim <br>
 <br>🔭 I’m currently studying computer science
-<br>🤝 looking to collaborate 👯<br>
+<br>🤝 looking to collaborate 👯
 <br>🌱 currently learning and growing <br>
 
 
