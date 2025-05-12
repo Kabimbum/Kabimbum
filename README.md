@@ -10,7 +10,10 @@
 </div>
 
 # 💫 About Me:
-<br>🔭 I’m currently studying computer science<br>🤝 I’m looking to collaborate 👯<br><br>🌱 I’m currently learning<br>
+Muhammad Gibran Hakim <br>
+<br>🔭 I’m currently studying computer science
+<br>🤝 looking to collaborate 👯<br>
+<br>🌱 currently learning and growing <br>
 
 
 ## 🌐 Socials:
