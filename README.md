@@ -14,7 +14,6 @@
 - 🎓 I'm currently studying **Computer Science**
 - 💡 Always eager to learn new tech and tools
 - 🤝 Open to collaboration on student-friendly and creative projects
-- 🎨 Love to mix tech with design: from code to canvas!
 - 🧩 Fun fact: I like to build things just to break and rebuild them again 😉
 
 ---
@@ -35,15 +34,3 @@
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabimbum&show_icons=true&theme=gruvbox_light" alt="Gibran's GitHub Stats"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@giigibran)
