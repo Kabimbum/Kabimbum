@@ -3,10 +3,10 @@
   🚀 A passionate Computer Science student with interest in design, coding, and collaboration.
 </p>
 
-<!-- Luffy Gear 5 Loop GIF Centered -->
-<p align="center">
-  <img src="https://media.tenor.com/8ZV0nKcX9h8AAAAC/gear-5-luffy-weilin-zhang-loop.gif" width="400"/>
+<p align=\"center\">
+  <img src=\"https://raw.githubusercontent.com/Kabimbum/Kabimbum/main/Assets/Zorro.gif\" width=\"400\" />
 </p>
+
 
 ---
 
