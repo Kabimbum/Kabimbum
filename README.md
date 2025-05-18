@@ -3,10 +3,9 @@
   🚀 A passionate Computer Science student with interest in design, coding, and collaboration.
 </p>
 
-<p align=\"center\">
-  <img src=\"https://raw.githubusercontent.com/Kabimbum/Kabimbum/main/Assets/Zorro.gif\" width=\"400\" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kabimbum/main/Assets/Zorro.gif" width="400" alt="Luffy Gear 5 GIF" />
 </p>
-
 
 ---
 
