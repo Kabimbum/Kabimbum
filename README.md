@@ -111,9 +111,13 @@
         <img src="https://github-profile-trophy.vercel.app/?username=Kabimbum&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR" alt="Trophies" />
       </td>
       <td>
-        <img src="https://ghchart.rshah.org/Kabimbum" alt="Kabimbum's GitHub chart" />
+        <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kabimbum/Kabimbum/blob/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kabimbum/Kabimbum/blob/output/github-snake.svg" />
+        <img alt="GitHub Snake" src="https://github.com/Kabimbum/Kabimbum/blob/output/github-snake.svg" />
+        </picture>
       </td>
-    </tr>
+      </tr>
   </table>
 </div>
 
