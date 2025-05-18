@@ -100,15 +100,16 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kabimbum&theme=dracula" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kabimbum&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kabimbum&theme=dracula" alt="Streak Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kabimbum&show_icons=true&locale=en" alt="GitHub Stats" width="380"/>
 </p>
+
 
 <div align="center">
   <table>
   <tr>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=Kabimbum&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR" alt="Trophies" />
+     <td align="right" width="50%">
+      <img src="https://github-profile-trophy.vercel.app/?username=Kabimbum&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR" alt="Trophies" width="600" />
     </td>
     <td>
       <img src="https://github.com/Kabimbum/Kabimbum/raw/output/github-contribution-grid-snake.gif" alt="snake gif" />
