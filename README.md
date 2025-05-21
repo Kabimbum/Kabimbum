@@ -117,4 +117,4 @@
   </tr>
 </table>
 
-<p align="center> Thanks <p>
+<p align="center> Thank you for passing by <p>
