@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Muhammad Gibran Hakim</h1>
 <p align="center">
-  🚀 A passionate Computer Science student with interest in design, coding, and collaboration.
+  🚀 A passionate Informatics Engineering student with interest in design, coding, and collaboration.
 </p>
 
 <p align="center">
