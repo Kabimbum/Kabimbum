@@ -108,9 +108,6 @@
 <div align="center">
   <table>
   <tr>
-     <td align="right" width="50%">
-      <img src="https://github-profile-trophy.vercel.app/?username=Kabimbum&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR" alt="Trophies" width="600" />
-    </td>
     <td>
       <img src="https://github.com/Kabimbum/Kabimbum/raw/output/github-contribution-grid-snake.gif" alt="snake gif" />
     </td>
